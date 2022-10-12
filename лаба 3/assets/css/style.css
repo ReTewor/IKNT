@@ -1,0 +1,223 @@
+.header {
+    position: absolute;
+    width: 1920px;
+    height: 120px;
+    left: 0px;
+    top: 0px;
+    background: #FFB44E;
+}
+
+.news_text_header {
+    position: absolute;
+    width: 998.17px;
+    height: 30px;
+    left: 150px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+}
+.circle {
+    background-color: #4C64BA;
+    position: absolute;
+    width: 81px;
+    height: 78px;
+    left: 41px;
+    top: 19px;
+    border-radius: 200px;
+}
+.leftb {
+    position: absolute;
+    width: 418.18px;
+    height: 775.2px;
+    left: 0px;
+    top: 174.02px;
+    background: #E9E7E7;
+}
+
+.maintext1 {
+    position: absolute;
+    width: 279.17px;
+    height: 59.06px;
+    left: 47.86px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+.text1 {
+    position: absolute;
+    width: 341.84px;
+    height: 152.93px;
+    left: 44.44px;
+    top: 75px;
+    background: #D9D9D9;
+}
+
+.maintext2 {
+    position: absolute;
+    width: 266.64px;
+    height: 59.06px;
+    left: 47.86px;
+    top: 250px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+
+.text2 {
+    position: absolute;
+    width: 341.84px;
+    height: 152.93px;
+    left: 44.44px;
+    top: 325px;
+    background: #D9D9D9;
+}
+.maintext3 {
+    position: absolute;
+    width: 266.64px;
+    height: 59.06px;
+    left: 47.86px;
+    top: 500px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+.text3 {
+    position: absolute;
+    width: 341.84px;
+    height: 152.93px;
+    left: 44.44px;
+    top: 575px;
+    background: #D9D9D9;
+}
+.navb {
+    position: absolute;
+    width: 1920px;
+    height: 54px;
+    left: 0px;
+    top: 120px;
+    background: #C2CEFC;
+}
+.link1 {
+    position: absolute;
+    width: 70.65px;
+    height: 29.53px;
+    left: 40px;
+    top: 10px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+.link2 {
+    position: absolute;
+    width: 188.01px;
+    height: 29.53px;
+    left: 210px;
+    top:10px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+.link3 {
+    position: absolute;
+    width: 188.01px;
+    height: 29.53px;
+    left: 480px;
+    top: 10px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+.link4 {
+    position: absolute;
+    width: 222.2px;
+    height: 29.53px;
+    left: 725px;
+    top: 10px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+.img {
+    position: absolute;
+    width: 1149.72px;
+    height: 558.98px;
+    left: 505px;
+    top: 210px;
+}
+.img_text {
+    position: absolute;
+    width: 1156.56px;
+    height: 88.59px;
+    left: 505px;
+    top: 786.91px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+.read {
+    position: absolute;
+    width: 101.41px;
+    height: 14.77px;
+    left: 505px;
+    top: 894.49px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #000000;
+}
+.bottextb {
+    position: absolute;
+    width: 1920px;
+    height: 131px;
+    left: 0px;
+    top: 949px;
+    background: #28376F;
+}
+.bottext {
+    position: absolute;
+    width: 1224.93px;
+    height: 37.97px;
+    left: 52.86px;
+    top: 30px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+.imgvk {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    right: 10px;
+    top: 40px;
+}
